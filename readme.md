@@ -1,3 +1,5 @@
+# RDKit Compatible TorsionNet
+
 # TorsionNet
 This repository accompanies the manuscript "TorsionNet: A Deep Neural Network to Predict Small Molecule Torsion Energy Profiles with the Accuracy of Quantum Mechanics."
 The code and notebooks in this repository can be used to train a TorsionNet model to predict QM energy profiles and predict the energy profile for a new torsional fragment.
